@@ -1,10 +1,10 @@
 # GAIH Student Repo
 ![](img/newlogo.png)
 
-**Course Date:** 05/04/2021-09/04/2021
-**Name:** Burak  
-**Surname:** Topçu  
-**Email:** brktopcu@gmail.com  
+**Course Date:** 05/04/2021-09/04/2021<br/>
+**Name:** Burak  <br/>
+**Surname:** Topçu  <br/>
+**Email:** brktopcu@gmail.com  <br/>
 
 **Note:** 
 File Explanations: Homeworks and project folders contains .ipny and .py files which created with Jupyter Notebook.
@@ -13,7 +13,7 @@ because **input()** function not callable at many situation in shell and causing
 ## Final Project
 
 I created "Knowledge Competition" program, which includes questions for measure your
-general knowledge on recent history of cinema (popular actress,movies,directors at last years etc.).
+general knowledge on recent history of cinema (popular actress,movies,directors at last years etc.)
 I used nested lists and nested dictionary in project,also created and used custom functions.
 
 ## Requirements
