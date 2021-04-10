@@ -1,0 +1,3 @@
+Executable Python script files optimized to run in Python Shell/Prompt,
+used raw_input() function instead of input() function. 
+And added a pause line at the end for prevent immediately closing after running.
