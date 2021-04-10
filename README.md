@@ -1,21 +1,24 @@
-# GAIH Student Repo Example
+# GAIH Student Repo
 ![](img/newlogo.png)
 
-**Course Date:** DD.MM.YYYY  
-**Name:** Mert  
-**Surname:** Cobanov  
-**Email:** mertcobanov@gmail.com  
+**Course Date:** 05/04/2021-09/04/2021
+**Name:** Burak  
+**Surname:** Topçu  
+**Email:** brktopcu@gmail.com  
 
-**Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
+**Note:** 
+File Explanations: Homeworks and project folders contains .ipny and .py files which created with Jupyter Notebook.
+But if you want to run my scripts on any Python Shell or Prompt, I edited and uploaded .py files with name suffix (Executable),
+because **input()** function not callable at many situation in shell and causing error,need to use 	**raw_input()** function instead of input().
+## Final Project
 
-## Project Name
-Description of your project.
+I created "Knowledge Competition" program, which includes questions for measure your
+general knowledge on recent history of cinema (popular actress,movies,directors at last years etc.).
+I used nested lists and nested dictionary in project,also created and used custom functions.
 
 ## Requirements
 ```
-Some python libraries
-Some python libraries
-Some python libraries
+My works no require any additional library.
 ```
 ---
 
